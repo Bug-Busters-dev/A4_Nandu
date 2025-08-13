@@ -1,0 +1,20 @@
+Ergebnis: 
+Q1: Aus 
+Q2: Aus 
+L1: An 
+L2: An 
+Ergebnis: 
+Q1: Aus 
+Q2: An 
+L1: An 
+L2: An 
+Ergebnis: 
+Q1: An 
+Q2: Aus 
+L1: An 
+L2: An 
+Ergebnis: 
+Q1: An 
+Q2: An 
+L1: An 
+L2: An

@@ -1,0 +1,7 @@
+4 6
+Q1 X Q2 X
+W  W  W  W
+r  R  R  r
+X  B  B  X
+X  W  W  X
+X  L1 L2 X
